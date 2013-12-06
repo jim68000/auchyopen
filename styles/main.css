@@ -3,3 +3,18 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.jumbotron {
+	background-color: #B163A3;
+	color: #e3e3e3;
+
+}
+
+.jumbotron a {
+	color: #E3E3E3;
+}
+
+a, .navbar-inverse .navbar-brand {
+	color: #B163A3;
+}
+
